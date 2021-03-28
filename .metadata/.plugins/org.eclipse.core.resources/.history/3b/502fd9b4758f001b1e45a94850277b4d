@@ -1,0 +1,22 @@
+
+public class Subject implements ISubject{
+
+	@Override
+	public void register(Observer ob) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void unregister(Observer ob) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void notifyObsever() {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

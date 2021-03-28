@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename field &apos;ob&apos; in &apos;Subject&apos; to &apos;observers&apos;&#x0D;&#x0A;- Original project: &apos;observer pattern&apos;&#x0D;&#x0A;- Original element: &apos;Subject.ob&apos;&#x0D;&#x0A;- Renamed element: &apos;Subject.observers&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" delegate="false" deprecate="false" description="Rename field &apos;ob&apos;" flags="589830" getter="false" id="org.eclipse.jdt.ui.rename.field" input="/src&lt;{Subject.java[Subject^ob" name="observers" references="true" setter="false" stamp="1616902164636" textual="false" version="1.0"/>
+</session>
